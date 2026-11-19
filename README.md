@@ -6,22 +6,29 @@
 
 | Total Problems | Topics |
 |---|---|
-| 15 | 8 |
+| 16 | 9 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (4)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (14)
+- [implementation](#implementation) (15)
 - [sortings](#sortings) (3)
 - [strings](#strings) (2)
-- [two pointers](#two-pointers) (9)
+- [two pointers](#two-pointers) (10)
 
 ---
+
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 
 ### brute force
 
@@ -73,6 +80,7 @@
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
@@ -102,6 +110,7 @@
 | 1462A | [Favorite Sequence](https://codeforces.com/contest/1462/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1462/A%20-%20Favorite%20Sequence/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.java) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |

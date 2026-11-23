@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 11 |
+| 19 | 11 |
 
 ---
 
@@ -18,10 +18,10 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (15)
+- [implementation](#implementation) (16)
 - [math](#math) (1)
 - [sortings](#sortings) (3)
-- [strings](#strings) (3)
+- [strings](#strings) (4)
 - [two pointers](#two-pointers) (11)
 
 ---
@@ -77,6 +77,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 266A | [Stones on the Table](https://codeforces.com/contest/266/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/266/A%20-%20Stones%20on%20the%20Table/solution.java) |
 | 282A | [Bit++](https://codeforces.com/contest/282/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/282/A%20-%20Bit%2B%2B/solution.java) |
 | 313B | [Ilya and Queries](https://codeforces.com/contest/313/problem/B) | 1100 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/313/B%20-%20Ilya%20and%20Queries/solution.java) |
@@ -112,6 +113,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 71A | [Way Too Long Words](https://codeforces.com/contest/71/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/71/A%20-%20Way%20Too%20Long%20Words/solution.java) |
+| 112A | [Petya and Strings](https://codeforces.com/contest/112/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/112/A%20-%20Petya%20and%20Strings/solution.java) |
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
 

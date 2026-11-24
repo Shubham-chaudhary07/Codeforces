@@ -6,7 +6,19 @@ public class A1760 {
         Scanner sc=new Scanner(System.in);
         int t=sc.nextInt();
         while(t-- > 0){
-            int a=sc.nextInt();
+            int[] arr=new int[3];
+            for(int i=0;i<3;i++){
+                arr[i]=sc.nextInt();
+            }
+            Arrays.sort(arr);
+            System.out.println(arr[1]);
+ 
+        }
+    }
+}
+/* second approach
+ 
+             int a=sc.nextInt();
             int b=sc.nextInt();
             int c=sc.nextInt();
             int med=0;
@@ -21,15 +33,4 @@ public class A1760 {
                 med=c;
             }
             System.out.println(med);
- 
-        }
-    }
-}
-/* second approach
-            int[] arr=new int[3];
-            for(int i=0;i<3;i++){
-                arr[i]=sc.nextInt();
-            }
-            Arrays.sort(arr);
-            System.out.println(arr[1]);
  */

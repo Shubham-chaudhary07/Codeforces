@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 11 |
+| 28 | 11 |
 
 ---
 
@@ -18,9 +18,9 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [greedy](#greedy) (6)
-- [implementation](#implementation) (24)
-- [math](#math) (1)
-- [sortings](#sortings) (5)
+- [implementation](#implementation) (25)
+- [math](#math) (2)
+- [sortings](#sortings) (6)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (11)
 
@@ -90,6 +90,7 @@
 | 381A | [Sereja and Dima](https://codeforces.com/contest/381/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/381/A%20-%20Sereja%20and%20Dima/solution.java) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
 | 520A | [Pangram](https://codeforces.com/contest/520/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/520/A%20-%20Pangram/solution.java) |
+| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 734A | [Anton and Danik](https://codeforces.com/contest/734/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/734/A%20-%20Anton%20and%20Danik/solution.java) |
 | 785A | [Anton and Polyhedrons](https://codeforces.com/contest/785/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/785/A%20-%20Anton%20and%20Polyhedrons/solution.java) |
 | 791A | [Bear and Big Brother](https://codeforces.com/contest/791/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/791/A%20-%20Bear%20and%20Big%20Brother/solution.java) |
@@ -108,6 +109,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 
 ### sortings
@@ -116,6 +118,7 @@
 |---|---------|------------|----------|
 | 339A | [Helpful Maths](https://codeforces.com/contest/339/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/339/A%20-%20Helpful%20Maths/solution.java) |
 | 433B | [Kuriyama Mirai's Stones](https://codeforces.com/contest/433/problem/B) | 1200 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/433/B%20-%20Kuriyama%20Mirai's%20Stones/solution.java) |
+| 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |
 | 1843A | [Sasha and Array Coloring](https://codeforces.com/contest/1843/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1843/A%20-%20Sasha%20and%20Array%20Coloring/solution.java) |

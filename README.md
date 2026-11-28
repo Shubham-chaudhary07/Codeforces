@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 32 | 11 |
+| 33 | 13 |
 
 ---
 
@@ -15,12 +15,14 @@
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (5)
 - [combinatorics](#combinatorics) (1)
+- [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
-- [greedy](#greedy) (9)
+- [graph matchings](#graph-matchings) (1)
+- [greedy](#greedy) (10)
 - [implementation](#implementation) (27)
 - [math](#math) (3)
-- [sortings](#sortings) (9)
+- [sortings](#sortings) (10)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (11)
 
@@ -48,6 +50,12 @@
 |---|---------|------------|----------|
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
 
+### constructive algorithms
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.java) |
+
 ### data structures
 
 | # | Problem | Difficulty | Solution |
@@ -64,6 +72,12 @@
 | 961B | [Lecture Sleep](https://codeforces.com/contest/961/problem/B) | 1200 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/961/B%20-%20Lecture%20Sleep/solution.java) |
 | 1359B | [New Theatre Square](https://codeforces.com/contest/1359/problem/B) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1359/B%20-%20New%20Theatre%20Square/solution.java) |
 
+### graph matchings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.java) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -73,6 +87,7 @@
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 1359B | [New Theatre Square](https://codeforces.com/contest/1359/problem/B) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1359/B%20-%20New%20Theatre%20Square/solution.java) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
+| 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.java) |
@@ -127,6 +142,7 @@
 | 490A | [Team Olympiad](https://codeforces.com/contest/490/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/490/A%20-%20Team%20Olympiad/solution.java) |
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1360B | [Honest Coach](https://codeforces.com/contest/1360/problem/B) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1360/B%20-%20Honest%20Coach/solution.java) |
+| 1360C | [Similar Pairs](https://codeforces.com/contest/1360/problem/C) | 1100 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1360/C%20-%20Similar%20Pairs/solution.java) |
 | 1399A | [Remove Smallest](https://codeforces.com/contest/1399/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1399/A%20-%20Remove%20Smallest/solution.java) |
 | 1689A | [Lex String](https://codeforces.com/contest/1689/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1689/A%20-%20Lex%20String/solution.java) |
 | 1760A | [Medium Number](https://codeforces.com/contest/1760/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1760/A%20-%20Medium%20Number/solution.java) |

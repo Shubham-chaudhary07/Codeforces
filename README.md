@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 30 | 11 |
+| 31 | 11 |
 
 ---
 
@@ -18,8 +18,8 @@
 - [data structures](#data-structures) (2)
 - [dp](#dp) (4)
 - [greedy](#greedy) (8)
-- [implementation](#implementation) (26)
-- [math](#math) (2)
+- [implementation](#implementation) (27)
+- [math](#math) (3)
 - [sortings](#sortings) (8)
 - [strings](#strings) (11)
 - [two pointers](#two-pointers) (11)
@@ -107,6 +107,7 @@
 | 1789B | [Serval and Inversion Magic](https://codeforces.com/contest/1789/problem/B) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1789/B%20-%20Serval%20and%20Inversion%20Magic/solution.java) |
 | 1798B | [Three Sevens](https://codeforces.com/contest/1798/problem/B) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1798/B%20-%20Three%20Sevens/solution.java) |
 | 1840A | [Cipher Shifer](https://codeforces.com/contest/1840/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/A%20-%20Cipher%20Shifer/solution.java) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.java) |
 
 ### math
 
@@ -114,6 +115,7 @@
 |---|---------|------------|----------|
 | 723A | [The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A) | 800 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/723/A%20-%20The%20New%20Year%3A%20Meeting%20Friends/solution.java) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.java) |
+| 2292A | [Picnic for Two](https://codeforces.com/contest/2292/problem/A) | Unrated | [Java 21](https://github.com/Shubham-chaudhary07/codeforces/blob/HEAD/2292/A%20-%20Picnic%20for%20Two/solution.java) |
 
 ### sortings
 
